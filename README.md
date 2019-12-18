@@ -49,4 +49,5 @@ http://0.0.0.0:8080/#!/infra
 
 #### References
 
-* Localstack kenesis example: https://github.com/atlassian/localstack/blob/master/tests/integration/test_integration.py
+* AWS whitepaper overview:
+https://d0.awsstatic.com/whitepapers/whitepaper-streaming-data-solutions-on-aws-with-amazon-kinesis.pdf
